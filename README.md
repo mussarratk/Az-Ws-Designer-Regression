@@ -1,4 +1,4 @@
-# Az-Ws-Designer-Regression
+# Az-Ws-Designer-Regression - ML Workflow
 # Azure Workspace-AutoML-Regression Project - In Designer Pipeline - Sample - Automobile Price Dataset - Car
 ## Train and Deploy a Predictive Models
 ## Train a regression model. Use a Regression Model. Deploy a model as a webservice. Create a real-time inference pipeline
@@ -19,3 +19,5 @@ https://www.coursera.org/learn/microsoft-azure-machine-learning-for-data-scienti
 ![image](https://github.com/user-attachments/assets/515533a8-4d65-4c64-a0af-485ced6dffac)
 ![image](https://github.com/user-attachments/assets/63731621-4393-40f2-b122-de426c7ffe23)
 ![image](https://github.com/user-attachments/assets/8bb70cb5-895d-40f6-8ae0-8e5a7ab8c4c8)
+
+
