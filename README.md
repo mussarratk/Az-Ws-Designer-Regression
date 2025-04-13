@@ -21,7 +21,7 @@ https://www.coursera.org/learn/microsoft-azure-machine-learning-for-data-scienti
 
 
 
-111
+![image](https://github.com/user-attachments/assets/982f21ca-bcf2-4fb5-8904-8f607c68f681)
 ![image](https://github.com/user-attachments/assets/dc37e202-1dae-4c0a-998f-ace18929aef9)
 ![image](https://github.com/user-attachments/assets/1a0ea024-7236-44e5-903e-8a64216e8cf8)
 ![image](https://github.com/user-attachments/assets/d592c792-5143-40c7-bdb9-ec134c251342)
@@ -53,7 +53,7 @@ downloaded the template for automation
 
 ![image](https://github.com/user-attachments/assets/85eb0c8f-b063-4c59-a9cd-0d001cdd2443)
 ![image](https://github.com/user-attachments/assets/07e49096-8b2e-4b4a-bf58-a32cea8148ee)
-![image](https://github.com/user-attachments/assets/048aba2c-7273-49e8-a068-a237c02dde7a)
+# g
 
 ![image](https://github.com/user-attachments/assets/392f54a0-3aa5-4f7f-a13f-f5297953d26b)
 
