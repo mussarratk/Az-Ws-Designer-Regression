@@ -28,6 +28,36 @@ https://www.coursera.org/learn/microsoft-azure-machine-learning-for-data-scienti
 ![image](https://github.com/user-attachments/assets/532ea209-5415-46a8-81dd-d47494b31337)
 ![image](https://github.com/user-attachments/assets/13000c19-2e01-4988-8f8c-9a8699249f77)
 
+
+
+
+![image](https://github.com/user-attachments/assets/0a107631-b816-4f18-9da4-48cf01b2bf1e)
+![image](https://github.com/user-attachments/assets/f9b4d698-cf1e-44ed-84b9-c6efe5bf9bf2)
+![image](https://github.com/user-attachments/assets/c47422fd-e6ea-448b-871f-e76585ea10cf)
+![image](https://github.com/user-attachments/assets/918df5de-1fbd-4e57-94c4-da1aeeaae4d0)
+![image](https://github.com/user-attachments/assets/c81744bc-99c6-4ff2-afa7-fbdc618e32d6)
+
+
+downloaded the template for automation
+
+![image](https://github.com/user-attachments/assets/0a7e316d-f08d-4352-af68-bb33032f2eb7)
+![image](https://github.com/user-attachments/assets/8abb74cb-0429-42b1-a28c-de960d4a1ffe)
+ - use Azure Machine Learning Designer to train a classification model, use a classification model for influencing, and deploy a classification model as a service.
+- For production, you should create an inference cluster, which provides an Azure Kubernetes Service (AKS) cluster that provides better scalability and security.
+- the web service to an Azure Container Instance (ACI). This type of compute is created dynamically and is useful for development and testing.
+- "GlobalParameters": This key is used to pass any global parameters that might influence the prediction process. In this case, it's an empty object ({}), meaning no global parameters are being used.
+
+![image](https://github.com/user-attachments/assets/3d841047-4d78-442e-bb9b-67869501e8f6)
+
+![image](https://github.com/user-attachments/assets/85eb0c8f-b063-4c59-a9cd-0d001cdd2443)
+![image](https://github.com/user-attachments/assets/07e49096-8b2e-4b4a-bf58-a32cea8148ee)
+![image](https://github.com/user-attachments/assets/048aba2c-7273-49e8-a068-a237c02dde7a)
+
+![image](https://github.com/user-attachments/assets/392f54a0-3aa5-4f7f-a13f-f5297953d26b)
+
+
+
+
 ![image](https://github.com/user-attachments/assets/227083d0-4540-465c-8bbb-5a63327eed99)
 ![image](https://github.com/user-attachments/assets/ebb21534-9a44-4ae7-82d4-dbbb5cc8ab6d)
 ![image](https://github.com/user-attachments/assets/ea3d83f3-ef33-478c-9215-f8ce13cb7abe)
