@@ -17,7 +17,8 @@ https://www.coursera.org/learn/microsoft-azure-machine-learning-for-data-scienti
 ![image](https://github.com/user-attachments/assets/113d4701-da7d-46b0-946b-65fdb26f19de)
 ![image](https://github.com/user-attachments/assets/75d170a5-746b-4e94-b046-6c7d8c4d8f53)
 ![image](https://github.com/user-attachments/assets/515533a8-4d65-4c64-a0af-485ced6dffac)
-![image](https://github.com/user-attachments/assets/63731621-4393-40f2-b122-de426c7ffe23)
+
+
 ![image](https://github.com/user-attachments/assets/8bb70cb5-895d-40f6-8ae0-8e5a7ab8c4c8)
 ![image](https://github.com/user-attachments/assets/982f21ca-bcf2-4fb5-8904-8f607c68f681)
 ![image](https://github.com/user-attachments/assets/dc37e202-1dae-4c0a-998f-ace18929aef9)
